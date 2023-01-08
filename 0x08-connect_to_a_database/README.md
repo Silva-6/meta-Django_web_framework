@@ -1,6 +1,6 @@
 # **Ungraded Lab**
 
-Connecting to a Database
+# Connecting to a Database
 
 
 ### **Goal**
