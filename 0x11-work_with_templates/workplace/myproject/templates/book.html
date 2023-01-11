@@ -1,9 +1,9 @@
 <!-- Add code to extend base.html file -->
-{% extends base.html %}
+{% extends 'base.html' %}
 <!-- Add code to load static content -->
 {% load static %} 
 
-{% bock content %}
-<p> Booking </p>
+{% block content %}
+<h1> Booking </h1>
 <p> Book now! </p>
 {% endblock %}

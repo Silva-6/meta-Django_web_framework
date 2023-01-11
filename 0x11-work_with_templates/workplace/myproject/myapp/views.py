@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 # Create your views here for Home, Menu, About and Booking
 def home(request):
-    return render(request, 'home.html')
+    return render(request, 'index.html')
 
 def menu(request):
     return render(request, 'menu.html')
